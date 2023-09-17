@@ -11,7 +11,8 @@
 <body>
     <h1>Page ONE</h1>
 
-     <a href="{{route('test.page')}}"  >test</a> 
+     <a href="{{route('register')}}"  >register</a> 
+     <a href="{{route('login')}}"  >login</a> 
     
     
 </body>
